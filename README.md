@@ -42,6 +42,8 @@ PDF → OCR → Layout-aware chunking → Embeddings → Semantic retrieval → 
   "experience": "VML TechHub",
   "projects": ["Document AI", "OCR Parsing"]
 }
+
+
 ## 📂 Example Use Cases
 - Resume parsing
 - Invoice field extraction
